@@ -1,3 +1,15 @@
+## v3.1.0
+
+- feat: define compatibility-preserving package exports
+- chore: update CDN examples for the 3.1.0 release
+
+## v3.0.2
+
+- chore: update build and development dependencies
+- chore: replace `npm-run-all` with Bun-native script orchestration
+- chore: validate lockfile, lint, and types in CI
+- build: rebuild package artifacts automatically before packing
+
 ## v3.0.1
 
 - fix: avoid duplicate initial state listener notifications when restoring persisted hide state
